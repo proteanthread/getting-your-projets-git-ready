@@ -12,10 +12,6 @@ github-ready
 /*
 
 * PROJECT ROADMAP
-* COMPLIANCE STATUS:
-* [MET] 2026-05-13: Replaced Modified MIT License with the standard, full MIT License.
-* [MET] 2026-05-13: Added interactive prompt for optional FreeDOS compilation instructions.
-* [MET] 2026-05-13: Reorganized documentation to default to Linux (GCC/BCC) and conditionally append FreeDOS toolchains.
 * CANDIDATE CRITERIA:
 * 1. Add automated C89 static analysis via splint or cppcheck in the build process.
 * 2. Implement automated binary size verification to enforce the 512KB limitation.
