@@ -1,9 +1,12 @@
 # Getting your project git ready.
 
-Just some simple scripts to help get your projects git ready.
+Just some simple scripts to help you get your project git ready. I may in the future add different scripts for different compilers (or allow you to include your own compilers).
 
 ## Architecture and Design
-_These scripts should be POSIX compliant and work on ALL *nix systems._
+These scripts should be POSIX compliant, therefore should work on ALL *nix systems.
+
+## Project File
+github-ready
 
 ## Source Code Documentation
 /*
@@ -23,6 +26,5 @@ _These scripts should be POSIX compliant and work on ALL *nix systems._
 * Dynamically strip the file extension to create the target binary name
 * Compilation phase
 * Repository scaffolding
-* $PROJECT_TITLE
 
 */
